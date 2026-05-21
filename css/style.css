@@ -1658,6 +1658,7 @@ textarea:focus {
     box-shadow: var(--shadow-light);
     border: 1px solid var(--border-color);
     transition: var(--transition-normal);
+    margin-bottom: var(--spacing-2xl);
 }
 
 
